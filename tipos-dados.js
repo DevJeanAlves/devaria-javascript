@@ -9,11 +9,11 @@ let pessoa = {
 }
 const symb = Symbol()
 
-console.log(typeof inteiro);
-console.log(typeof decimal);
-console.log(typeof bool);
-console.log(typeof nome);
-console.log(typeof copo);
-console.log(typeof televisao);
-console.log(typeof pessoa);
-console.log(typeof symb);
+console.log("este tipo é um ", typeof inteiro);
+console.log("este tipo é um ", typeof decimal);
+console.log("este tipo é um ", typeof bool);
+console.log("este tipo é um ", typeof nome);
+console.log("este tipo é um ", typeof copo);
+console.log("este tipo é um ", typeof televisao);
+console.log("este tipo é um ", typeof pessoa);
+console.log("este tipo é um ", typeof symb);
